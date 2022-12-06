@@ -25,12 +25,12 @@ Impact of this project: I was able to identify specific failures with the help o
                     This dashboard is now used by the senior engineer to show the results for every weekly meetings.
                     
  People who will be using this dashboard:
- Senior Engineer
- Principal Engineer, Test development
- Quality Manager
- Principal Manufacturing Engineer
- Director, Quality
- NPI Product Engineer
+ Senior Engineer,
+ Principal Engineer- Test development,
+ Quality Manager,
+ Principal Manufacturing Engineer,
+ Director- Quality,
+ NPI Product Engineer.
 
 Dashboard:
 
