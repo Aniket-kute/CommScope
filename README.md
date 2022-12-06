@@ -17,7 +17,20 @@ Possible solutions that I tried for this problem:
 3. Python: Python is free, open source programming language. It has rich libraries which exactly suited our bussiness need. The code is readable. Can be easily implemented to other product lines within CommScope with just a bit of changes within code. Data cleaning, processing is very fast with Python. (It takes me seconds to run the complete models and to push the file to my visualization tool: Power Bi)
 
 My Contribution:
-1. I was able to automate this entire process using Python
+1. I was able to automate this entire process using Python. As a result I was able to save 6 hours of weekly work along with able to find out root cause analysis.
+Current work flow
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
