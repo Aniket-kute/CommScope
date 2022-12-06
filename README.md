@@ -13,7 +13,9 @@ Possible solutions that I tried for this problem:
 2. Alteryx: Alteryx was a good solution to this problem, but 
              a. It has limited functionalities with free version 
              b. It is expensive. We might have to buy licenses to all the users and we were planning to implement a similar automation system to different product lines                 within our Business unit, so getting licenses for everyone would have cost out BU a lot of money.
- 
+
+3. Python: Python is free, open source programming language. It has rich libraries which exactly suited our bussiness need. The code is readable. Can be easily implemented to other product lines within CommScope with just a bit of changes within code. Data cleaning, processing is very fast with Python. (It takes me seconds to run the complete models and to push the file to my visualization tool: Power Bi)
+
 My Contribution:
 1. I was able to automate this entire process using Python
 
