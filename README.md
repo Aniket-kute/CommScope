@@ -1,5 +1,5 @@
 # CommScope Work Portfolio
-Analysis and Automation of tests defects using python & Power Bi for One Cell product line at CommScope
+Analysis and Automation of tests defects using Python & Power Bi for One Cell product line at CommScope
 
 Dataset: We have around 500 .csv files coming in every week(~2000 files every month) showing test reaults for varied tests for the part number for One Cell product Line
           Every file had around 150 lines of output (Results of every test done for that part number)
