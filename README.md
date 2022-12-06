@@ -20,6 +20,7 @@ My Contribution:
 1. I was able to automate this entire process using Python. As a result I was able to save 6 hours of weekly work along with able to find out root cause analysis.
 Current work flow
 
+<img width="925" alt="AUTOMATION" src="https://user-images.githubusercontent.com/71498930/205827379-d58d6e88-5248-41be-a620-8f00852f3d13.png">
 
 
 
