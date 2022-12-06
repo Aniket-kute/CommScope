@@ -19,8 +19,8 @@ Possible solutions that I tried for this problem:
 My Contribution:
 1. I was able to automate this entire process using Python. As a result I was able to save 6 hours of weekly work along with able to find out root cause analysis.
 Current work flow
+<img src="commscope_work_portfolio/process.png">
 
-![](commscope_work_portfolio/AUTOMATION.png)
 
 
 
