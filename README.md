@@ -6,7 +6,7 @@
           
 **Issue:** Unable to track the root causes(which part number was failing which test), data was too complex, lot of manual work (6-hour analysis every week to report visuals in Excel)
  
- ====
+ =====
  
 _Possible solutions that I tried for this problem:_
 
