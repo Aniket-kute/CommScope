@@ -31,9 +31,9 @@ _Possible solutions that I tried for this problem:_
 **My Contribution:**
 
 1. I was able to automate this entire process using Python.  As a result, I saved 6 hours of weekly work along with being able to find out the root cause analysis.
-<br>
 
-**Current workflow**__
+
+**Current workflow**
 
 <img src="commscope_work_portfolio/process.png">
 
