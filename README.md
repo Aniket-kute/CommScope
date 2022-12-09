@@ -12,7 +12,8 @@ _Possible solutions that I tried for this problem:_
 
 
 **1. Excel:** We can run a VBA code to merge all these files and create a single .csv file and later push this file to a visualization tool (ex. PowerBi)
-&nbsp;&nbsp; _Disadvantage:_ Excel has a limitation of ~1mn rows, so it will be difficult to work with files that generate more than a million rows every month. Also, &nbsp;&nbsp;for data transformation and cleaning for every file using VBA, the computational time was really high to go through every file and make the changes. 
+&nbsp;&nbsp; _Disadvantage:_ Excel has a limitation of ~1mn rows, so it will be difficult to work with files that generate more than a million rows every month.
+&nbsp;&nbsp; Also, for data transformation and cleaning for every file using VBA, the computational time was really high to go through every file and make the changes. 
  
 **2. Alteryx**: Alteryx was an excellent solution to this problem, but <br>
 &nbsp;&nbsp; a. It has limited functionalities with a free version  <br>
