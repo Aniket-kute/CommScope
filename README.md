@@ -5,7 +5,11 @@
 &nbsp;&nbsp;&nbsp; Every file had around 150 rows of data <br>
 &nbsp;&nbsp;&nbsp; Every year generates around 4mn rows of data
           
-**Issue:** Unable to track the root causes(which part number was failing which test), data was too complex, lot of manual work (6-hour analysis every week to report visuals in Excel)
+**Issue:** Unable to track the root causes(which part number was failing which test), data was too complex, lot of manual work (6-hours of weekly work to report visuals in Excel for 1 product line) <br>
+
+**Business Questions:** <br>
+1. What were the top 10 tests that failed for current year? Was it the same for previous year? <br>
+2. If we develop an automated system for this product line, can we implement then for other product lines? <br>
  
  -----
  
