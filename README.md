@@ -13,7 +13,6 @@ _Possible solutions that I tried for this problem:_
           _Disadvantage:_ Excel has a limitation of ~1mn rows, so it will be difficult to work with files that generate more than a million rows every month. Also, for data                             transformation and cleaning for every file using VBA, the computational time was really high to go through every file and make the changes. 
  
 **2. Alteryx**: Alteryx was an excellent solution to this problem, but 
-
              a. It has limited functionalities with a free version 
              b. It is expensive. We might have to buy licenses for all the users. We were planning to implement a similar automation system to different product lines within our Business unit, so getting permits for everyone would have cost our Business much money.
 
