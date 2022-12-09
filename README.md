@@ -38,12 +38,13 @@ _Possible solutions that I tried for this problem:_
 <img src="commscope_work_portfolio/process.png">
 
 <br>
-**Impact of this project:** 
+
+**Impact of this project:**
 
 ----
 
-I could identify specific failures with the help of these dashboards and the results were further provided to the engineering team at the plant location. As a result, once the changes were made, we monitored the results for the next month, and we found out that the improvement in the yields were more than 90% and the repeat testing was reduced by 45%, which was a major breakthrough for us since we have a product line in its testing/pilot phase.
-                    This dashboard is now used by the senior engineer to show the results for every weekly meeting.
+1. I could identify specific failures with the help of these dashboards and the results were further provided to the engineering team at the plant location. As a result, once the changes were made, we monitored the results for the next month, and we found out that the improvement in the yields were more than 90% and the repeat testing was reduced by 45%, which was a major breakthrough for us since we have a product line in its testing/pilot phase. <br>
+2. Saved 6 hours of manual work weekly. This same approach is used for another product line which additionally saved 6 hrs of manual work weekly.
                     
 **People who will be using this dashboard:** <br>
  Senior Engineer,<br>
