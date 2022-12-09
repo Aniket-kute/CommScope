@@ -14,8 +14,8 @@ _Possible solutions that I tried for this problem:_
 **1. Excel:** We can run a VBA code to merge all these files and create a single .csv file and later push this file to a visualization tool (ex. PowerBi)
           _Disadvantage:_ Excel has a limitation of ~1mn rows, so it will be difficult to work with files that generate more than a million rows every month. Also, for data                             transformation and cleaning for every file using VBA, the computational time was really high to go through every file and make the changes. 
  
-**2. Alteryx**: Alteryx was an excellent solution to this problem, but 
-          a. It has limited functionalities with a free version  
+**2. Alteryx**: Alteryx was an excellent solution to this problem, but <br>
+          a. It has limited functionalities with a free version  <br>
           b. It is expensive. We might have to buy licenses for all the users. We were planning to implement a similar automation system to different product lines   within our Business unit, so getting permits for everyone would have cost our Business much money.
 
 **3. Python**: Python is a free, open-source programming language. It has rich libraries which exactly suit our business needs. The code is readable. It can be easily implemented to other product lines within CommScope with just a bit of change within code. Data cleaning, and processing is very fast with Python. (It takes me seconds to run the complete models and to push the file to my visualization tool: Power Bi)
