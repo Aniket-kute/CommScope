@@ -12,7 +12,7 @@ _Possible solutions that I tried for this problem:_
 
 
 **1. Excel:** We can run a VBA code to merge all these files and create a single .csv file and later push this file to a visualization tool (ex. PowerBi)
-&nbsp;&nbsp; _Disadvantage:_ Excel has a limitation of ~1mn rows, so it will be difficult to work with files that generate more than a million rows every month. Also, &nbsp;&nbsp;  for data transformation and cleaning for every file using VBA, the computational time was really high to go through every file and make the changes. 
+&nbsp;&nbsp; _Disadvantage:_ Excel has a limitation of ~1mn rows, so it will be difficult to work with files that generate more than a million rows every month. Also, &nbsp;&nbsp;for data transformation and cleaning for every file using VBA, the computational time was really high to go through every file and make the changes. 
  
 **2. Alteryx**: Alteryx was an excellent solution to this problem, but <br>
 &nbsp;&nbsp; a. It has limited functionalities with a free version  <br>
@@ -32,7 +32,7 @@ _Possible solutions that I tried for this problem:_
 I could identify specific failures with the help of these dashboards and the results were further provided to the engineering team at the plant location. As a result, once the changes were made, we monitored the results for the next month, and we found out that the improvement in the yields were more than 90% and the repeat testing was reduced by 45%, which was a major breakthrough for us since we have a product line in its testing/pilot phase.
                     This dashboard is now used by the senior engineer to show the results for every weekly meeting.
                     
- People who will be using this dashboard:<br>
+** People who will be using this dashboard:**<br>
  Senior Engineer,<br>
  Principal Engineer- Test development,<br>
  Quality Manager,<br>
