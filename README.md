@@ -7,6 +7,8 @@ Analysis and Automation of tests defects using Python & Power Bi for One Cell pr
 **Issue:** Unable to track the root causes(which part number was failing which test), data was too complex, lot of manual work (6 hour analysis every week to report visuals in Excel)
  
 _Possible solutions that I tried for this problem:_
+
+
 **1. Excel:** We can run a VBA code to merge all these files together and create a single .csv file and later push this file to a visualizatio tool (ex. PowerBi)
           Disadvantage: Excel has a limitation of ~1mn rows, it will difficult to work with files that generates more than a million rows every month. Also, for data                             transformation and cleaning for every file using VBA, the computational time was be really high to go through every file and make the changes. 
  
