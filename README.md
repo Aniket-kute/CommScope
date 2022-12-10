@@ -58,7 +58,7 @@ _Possible solutions that I tried for this problem:_
 
 -----
 
-<img src="commscope_work_portfolio/AUTOMATION.png" WIDTH="1000">
+<img src="commscope_work_portfolio/rmproject.png" WIDTH="1000">
 
 <br>
 <br>
