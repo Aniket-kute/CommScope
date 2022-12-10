@@ -35,7 +35,7 @@ _Possible solutions that I tried for this problem:_
 
 **Current workflow**
 
-<img src="commscope_work_portfolio/process.png">
+<img src="commscope_work_portfolio/workflow_1.png">
 
 <br>
 
