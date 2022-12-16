@@ -54,7 +54,7 @@ _Possible solutions that I tried for this problem:_
  Director- Quality,<br>
  NPI Product Engineer.<br>
 <br>
-**Dashboard:** Sample dates(November 2022) 
+**Dashboard:** Sample dates 
 
 -----
 
