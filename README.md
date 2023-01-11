@@ -74,7 +74,7 @@ _**Improvement in First Pass Yields:**_
 
 -----
 
-<img src="commscope_work_portfolio/auto.png" WIDTH="1000">
+<img src="commscope_work_portfolio/auto1.png" WIDTH="1000">
 
 <br>
 <br>
