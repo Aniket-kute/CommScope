@@ -56,7 +56,8 @@ _Possible solutions that I tried for this problem:_
 <br>
 
 -----
------
+The guy chasing the star is me when I had joined CommScope.
+<br>
 _**Improvement in First Pass Yields:**_
 
 <img src="commscope_work_portfolio/improvement 2.png" WIDTH="700" HEIGHT="200">
